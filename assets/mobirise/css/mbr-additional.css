@@ -1096,6 +1096,17 @@ a {
 .cid-sO5NiDW5JT .card:not(:nth-last-child(1)) {
   margin-bottom: 2rem;
 }
+.cid-sOA8EvE1LD {
+  background-image: url("../../../assets/images/comidarapida.jpg");
+}
+.cid-sOA8EvE1LD .mbr-text,
+.cid-sOA8EvE1LD .mbr-section-btn {
+  color: #ffe885;
+}
+.cid-sOA8EvE1LD .mbr-section-title {
+  color: #40b0bf;
+  text-align: left;
+}
 .cid-sO5QZ866jP {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -1569,6 +1580,46 @@ a {
   list-style-type: none;
   padding: 0;
 }
+.cid-sO5W3V5m0i {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
+}
+.cid-sO5W3V5m0i .top-line {
+  display: flex;
+  justify-content: space-between;
+}
+.cid-sO5W3V5m0i .mbr-section-title,
+.cid-sO5W3V5m0i .mbr-section-subtitle {
+  text-align: center;
+}
+.cid-sO5W3V5m0i .card:not(:nth-last-child(1)) {
+  margin-bottom: 2rem;
+}
+.cid-sO5W3V5m0i .card-wrapper {
+  border-radius: 4px;
+  background-color: #fafafa;
+}
+.cid-sO5W3V5m0i .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+@media (max-width: 767px) {
+  .cid-sO5W3V5m0i .card-box {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) {
+  .cid-sO5W3V5m0i .card-box {
+    padding-right: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-sO5W3V5m0i .card-box {
+    padding-left: 2rem;
+    padding-right: 4rem;
+  }
+}
 .cid-sFCw1qGFAI .navbar-dropdown {
   position: relative !important;
 }
@@ -1913,8 +1964,8 @@ a {
   }
 }
 .cid-sO5Vtlc8eD {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   background-color: #ffffff;
 }
 .cid-sO5Vtlc8eD .mbr-overlay {
@@ -1942,46 +1993,6 @@ a {
 }
 .cid-sO5Vtlc8eD form.mbr-form .mbr-section-btn .btn {
   width: 100%;
-}
-.cid-sO5W3V5m0i {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-sO5W3V5m0i .top-line {
-  display: flex;
-  justify-content: space-between;
-}
-.cid-sO5W3V5m0i .mbr-section-title,
-.cid-sO5W3V5m0i .mbr-section-subtitle {
-  text-align: center;
-}
-.cid-sO5W3V5m0i .card:not(:nth-last-child(1)) {
-  margin-bottom: 2rem;
-}
-.cid-sO5W3V5m0i .card-wrapper {
-  border-radius: 4px;
-  background-color: #fafafa;
-}
-.cid-sO5W3V5m0i .image-wrapper img {
-  width: 100%;
-  object-fit: cover;
-}
-@media (max-width: 767px) {
-  .cid-sO5W3V5m0i .card-box {
-    padding: 1rem;
-  }
-}
-@media (min-width: 768px) {
-  .cid-sO5W3V5m0i .card-box {
-    padding-right: 2rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-sO5W3V5m0i .card-box {
-    padding-left: 2rem;
-    padding-right: 4rem;
-  }
 }
 .cid-sFCw1qGFAI .navbar-dropdown {
   position: relative !important;
